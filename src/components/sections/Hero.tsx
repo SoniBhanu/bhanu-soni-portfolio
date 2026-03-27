@@ -9,8 +9,8 @@ import AnimatedCube from '@/components/ui/AnimatedCube'
 
 export default function HeroEnhanced() {
   const socialLinks = [
-    { icon: FaGithub, href: 'https://github.com/bhanusoni', label: 'GitHub', color: 'hover:text-gray-900' },
-    { icon: FaLinkedin, href: 'https://linkedin.com/in/bhanu-soni', label: 'LinkedIn', color: 'hover:text-blue-600' },
+    { icon: FaGithub, href: 'https://github.com/sonibhanu', label: 'GitHub', color: 'hover:text-gray-900' },
+    { icon: FaLinkedin, href: 'https://www.linkedin.com/in/bhanusoni11/', label: 'LinkedIn', color: 'hover:text-blue-600' },
     { icon: FaEnvelope, href: 'mailto:bhanusoni7640@gmail.com', label: 'Email', color: 'hover:text-red-500' },
   ]
 

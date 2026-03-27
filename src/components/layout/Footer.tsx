@@ -8,10 +8,9 @@ export default function Footer() {
   const currentYear = new Date().getFullYear()
 
   const socialLinks = [
-    { icon: FiGithub, href: 'https://github.com/yourusername', label: 'GitHub' },
-    { icon: FiLinkedin, href: 'https://linkedin.com/in/yourusername', label: 'LinkedIn' },
-    { icon: FiTwitter, href: 'https://twitter.com/yourusername', label: 'Twitter' },
-    { icon: FiMail, href: 'mailto:your@email.com', label: 'Email' },
+    { icon: FiGithub, href: 'https://github.com/sonibhanu', label: 'GitHub' },
+    { icon: FiLinkedin, href: 'https://www.linkedin.com/in/bhanusoni11/', label: 'LinkedIn' },
+    { icon: FiMail, href: 'mailto:bhanusoni7640@gmail.com', label: 'Email' },
   ]
 
   const navLinks = [
@@ -28,7 +27,7 @@ export default function Footer() {
           {/* Brand */}
           <div className="col-span-2 md:col-span-1">
             <h3 className="text-2xl font-bold bg-gradient-to-r from-primary-600 to-primary-400 bg-clip-text text-transparent mb-4">
-              Portfolio
+              Bhanu Soni
             </h3>
             <p className="text-gray-600 dark:text-gray-400 text-sm">
               Creating amazing web experiences with modern technologies.

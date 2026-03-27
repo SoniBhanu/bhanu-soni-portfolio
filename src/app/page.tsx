@@ -1,11 +1,7 @@
 'use client'
 
 import Hero from '@/components/sections/Hero'
-import Skills from '@/components/sections/Skills'
-import FeaturedProjects from '@/components/sections/FeaturedProjects'
 import AboutPreview from '@/components/sections/AboutPreview'
-import InspiringQuotes from '@/components/sections/InspiringQuotes'
-import ContactPreview from '@/components/sections/ContactPreview'
 import FloatingShapes from '@/components/ui/FloatingShapes'
 import AnimatedGradient from '@/components/ui/AnimatedGradient'
 import ParallaxSection from '@/components/ui/ParallaxSection'
@@ -32,9 +28,7 @@ export default function Home() {
       </ParallaxSection>
       
       <SkillsCloud />
-      <ProjectShowcase />\
-      <InspiringQuotes />
-      <ContactPreview />
+      <ProjectShowcase />
     </main>
   )
 }
