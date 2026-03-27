@@ -42,45 +42,44 @@ bhanu-soni-portfolio/
 ├── src/
 │ ├── app/
 │ │ ├── about/
-│ │ │ └── page.tsx
+│ │ │ └── page.tsx # About page
 │ │ ├── contact/
-│ │ │ └── page.tsx
+│ │ │ └── page.tsx # Contact page
 │ │ ├── projects/
-│ │ │ └── page.tsx
+│ │ │ └── page.tsx # Projects page
 │ │ ├── components/
 │ │ │ ├── layout/
-│ │ │ │ ├── Navbar.tsx
-│ │ │ │ └── Footer.tsx
+│ │ │ │ ├── Navbar.tsx # Navigation bar
+│ │ │ │ └── Footer.tsx # Footer component
 │ │ │ ├── sections/
-│ │ │ │ ├── HeroEnhanced.tsx
-│ │ │ │ ├── JourneyTimelineEnhanced.tsx
-│ │ │ │ ├── SkillsCloud.tsx
-│ │ │ │ ├── ProjectShowcase.tsx
-│ │ │ │ ├── AboutPreview.tsx
-│ │ │ │ ├── Testimonials.tsx
-│ │ │ │ ├── InspiringQuotes.tsx
-│ │ │ │ └── ContactPreview.tsx
+│ │ │ │ ├── HeroEnhanced.tsx # Hero section with 3D effects
+│ │ │ │ ├── JourneyTimelineEnhanced.tsx # Interactive timeline
+│ │ │ │ ├── SkillsCloud.tsx # Interactive skills display
+│ │ │ │ ├── ProjectShowcase.tsx # Featured projects showcase
+│ │ │ │ ├── AboutPreview.tsx # About section preview
+│ │ │ │ ├── Testimonials.tsx # Client testimonials carousel
+│ │ │ │ ├── InspiringQuotes.tsx # Animated quotes section
+│ │ │ │ └── ContactPreview.tsx # Contact section preview
 │ │ │ └── ui/
-│ │ │ ├── Button.tsx
-│ │ │ ├── Card.tsx
-│ │ │ ├── CustomCursor.tsx
-│ │ │ ├── ParticleBackground.tsx
-│ │ │ ├── ScrollToTop.tsx
-│ │ │ └── PageTransition.tsx
-│ │ ├── layout.tsx
-│ │ ├── page.tsx
-│ │ └── globals.css
+│ │ │ ├── Button.tsx # Reusable button component
+│ │ │ ├── Card.tsx # Card component
+│ │ │ ├── CustomCursor.tsx # Custom cursor effect
+│ │ │ ├── ParticleBackground.tsx # Animated particle background
+│ │ │ ├── ScrollToTop.tsx # Scroll to top button
+│ │ │ └── PageTransition.tsx # Page transition animations
+│ │ ├── layout.tsx # Root layout
+│ │ ├── page.tsx # Homepage
+│ │ └── globals.css # Global styles
 │ ├── lib/
-│ │ └── projectsData.ts
+│ │ └── projectsData.ts # Projects data
 │ └── public/
-│ ├── images/
-│ └── icons/
-├── .env.local
-├── next.config.js
-├── tailwind.config.ts
-├── package.json
-└── README.md
-
+│ ├── images/ # Images and assets
+│ └── icons/ # Icons
+├── .env.local # Environment variables
+├── next.config.js # Next.js configuration
+├── tailwind.config.ts # Tailwind CSS configuration
+├── package.json # Dependencies
+└── README.md # Project documentation
 
 ## 🚀 Getting Started
 
@@ -97,7 +96,7 @@ bhanu-soni-portfolio/
    cd bhanu-soni-portfolio
 
 npm install
-# or
+or
 yarn install
-# or
+or
 pnpm install
