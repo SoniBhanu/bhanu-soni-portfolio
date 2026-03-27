@@ -1,36 +1,40 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Bhanu Soni - Frontend Developer Portfolio
 
-## Getting Started
+![Portfolio Preview](https://img.shields.io/badge/Next.js-15-black)
+![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.0-cyan)
+![License](https://img.shields.io/badge/License-MIT-green)
 
-First, run the development server:
+A stunning, interactive portfolio website showcasing my journey as a Frontend Developer. Built with modern web technologies and featuring eye-catching animations, 3D effects, and a responsive design.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+![Portfolio Demo](https://via.placeholder.com/1200x630/3b82f6/ffffff?text=Bhanu+Soni+Portfolio)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## ✨ Features
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- 🎨 **Visually Stunning Design** - Modern gradient effects, glass morphism, and smooth animations
+- 🖱️ **Interactive Elements** - Custom cursor, 3D tilt cards, and hover effects
+- 📱 **Fully Responsive** - Perfect display on all devices from mobile to desktop
+- 🌓 **Dark/Light Mode** - Theme toggle with system preference detection
+- 🎬 **Smooth Animations** - Page transitions, scroll-triggered animations, and micro-interactions
+- 🚀 **Performance Optimized** - Built with Next.js 15 for optimal loading speeds
+- 📊 **Interactive Timeline** - Visual journey of my professional experience
+- 💬 **Testimonials Carousel** - Client feedback with smooth transitions
+- 📧 **Contact Form** - Working contact form with validation
+- 🔍 **SEO Optimized** - Metadata, sitemap, and robots.txt included
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🛠️ Tech Stack
 
-## Learn More
+| Category | Technologies |
+|----------|-------------|
+| **Framework** | Next.js 15, React 19 |
+| **Language** | TypeScript |
+| **Styling** | Tailwind CSS, CSS Modules |
+| **Animations** | Framer Motion, GSAP |
+| **Icons** | React Icons, Lucide React |
+| **3D Effects** | Three.js, React Three Fiber |
+| **Forms** | React Hook Form, Zod |
+| **Email** | EmailJS / Resend |
+| **Analytics** | Plausible Analytics |
+| **Deployment** | Vercel |
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 📁 Project Structure
