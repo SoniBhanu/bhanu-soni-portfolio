@@ -3,7 +3,6 @@
 ![Portfolio Preview](https://img.shields.io/badge/Next.js-15-black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.0-cyan)
-![License](https://img.shields.io/badge/License-MIT-green)
 
 A stunning, interactive portfolio website showcasing my journey as a Frontend Developer. Built with modern web technologies and featuring eye-catching animations, 3D effects, and a responsive design.
 
