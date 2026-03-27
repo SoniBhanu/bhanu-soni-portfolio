@@ -38,3 +38,66 @@ A stunning, interactive portfolio website showcasing my journey as a Frontend De
 | **Deployment** | Vercel |
 
 ## 📁 Project Structure
+bhanu-soni-portfolio/
+├── src/
+│ ├── app/
+│ │ ├── about/
+│ │ │ └── page.tsx
+│ │ ├── contact/
+│ │ │ └── page.tsx
+│ │ ├── projects/
+│ │ │ └── page.tsx
+│ │ ├── components/
+│ │ │ ├── layout/
+│ │ │ │ ├── Navbar.tsx
+│ │ │ │ └── Footer.tsx
+│ │ │ ├── sections/
+│ │ │ │ ├── HeroEnhanced.tsx
+│ │ │ │ ├── JourneyTimelineEnhanced.tsx
+│ │ │ │ ├── SkillsCloud.tsx
+│ │ │ │ ├── ProjectShowcase.tsx
+│ │ │ │ ├── AboutPreview.tsx
+│ │ │ │ ├── Testimonials.tsx
+│ │ │ │ ├── InspiringQuotes.tsx
+│ │ │ │ └── ContactPreview.tsx
+│ │ │ └── ui/
+│ │ │ ├── Button.tsx
+│ │ │ ├── Card.tsx
+│ │ │ ├── CustomCursor.tsx
+│ │ │ ├── ParticleBackground.tsx
+│ │ │ ├── ScrollToTop.tsx
+│ │ │ └── PageTransition.tsx
+│ │ ├── layout.tsx
+│ │ ├── page.tsx
+│ │ └── globals.css
+│ ├── lib/
+│ │ └── projectsData.ts
+│ └── public/
+│ ├── images/
+│ └── icons/
+├── .env.local
+├── next.config.js
+├── tailwind.config.ts
+├── package.json
+└── README.md
+
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- Node.js 18+ 
+- npm or yarn or pnpm
+
+### Installation
+
+1. **Clone the repository**
+   ```bash
+   gh repo clone SoniBhanu/bhanu-soni-portfolio
+   cd bhanu-soni-portfolio
+
+npm install
+# or
+yarn install
+# or
+pnpm install
