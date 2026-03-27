@@ -37,50 +37,6 @@ A stunning, interactive portfolio website showcasing my journey as a Frontend De
 | **Analytics** | Plausible Analytics |
 | **Deployment** | Vercel |
 
-## 📁 Project Structure
-bhanu-soni-portfolio/
-├── src/
-│ ├── app/
-│ │ ├── about/
-│ │ │ └── page.tsx # About page
-│ │ ├── contact/
-│ │ │ └── page.tsx # Contact page
-│ │ ├── projects/
-│ │ │ └── page.tsx # Projects page
-│ │ ├── components/
-│ │ │ ├── layout/
-│ │ │ │ ├── Navbar.tsx # Navigation bar
-│ │ │ │ └── Footer.tsx # Footer component
-│ │ │ ├── sections/
-│ │ │ │ ├── HeroEnhanced.tsx # Hero section with 3D effects
-│ │ │ │ ├── JourneyTimelineEnhanced.tsx # Interactive timeline
-│ │ │ │ ├── SkillsCloud.tsx # Interactive skills display
-│ │ │ │ ├── ProjectShowcase.tsx # Featured projects showcase
-│ │ │ │ ├── AboutPreview.tsx # About section preview
-│ │ │ │ ├── Testimonials.tsx # Client testimonials carousel
-│ │ │ │ ├── InspiringQuotes.tsx # Animated quotes section
-│ │ │ │ └── ContactPreview.tsx # Contact section preview
-│ │ │ └── ui/
-│ │ │ ├── Button.tsx # Reusable button component
-│ │ │ ├── Card.tsx # Card component
-│ │ │ ├── CustomCursor.tsx # Custom cursor effect
-│ │ │ ├── ParticleBackground.tsx # Animated particle background
-│ │ │ ├── ScrollToTop.tsx # Scroll to top button
-│ │ │ └── PageTransition.tsx # Page transition animations
-│ │ ├── layout.tsx # Root layout
-│ │ ├── page.tsx # Homepage
-│ │ └── globals.css # Global styles
-│ ├── lib/
-│ │ └── projectsData.ts # Projects data
-│ └── public/
-│ ├── images/ # Images and assets
-│ └── icons/ # Icons
-├── .env.local # Environment variables
-├── next.config.js # Next.js configuration
-├── tailwind.config.ts # Tailwind CSS configuration
-├── package.json # Dependencies
-└── README.md # Project documentation
-
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -96,7 +52,7 @@ bhanu-soni-portfolio/
    cd bhanu-soni-portfolio
 
 npm install
-or
+#### or
 yarn install
-or
+#### or
 pnpm install
