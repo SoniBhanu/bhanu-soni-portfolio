@@ -5,8 +5,15 @@ export default function robots(): MetadataRoute.Robots {
     rules: {
       userAgent: '*',
       allow: '/',
-      disallow: '/private/',
+      disallow: [
+        '/_next/',
+        '/api/',
+        '/private/',
+        '/*.json$',
+        '/*.map$',
+      ],
     },
-    sitemap: 'https://yourportfolio.com/sitemap.xml',
+    sitemap: 'https://bhanu-soni-portfolio.vercel.app/sitemap.xml',
+    host: 'https://bhanu-soni-portfolio.vercel.app/',
   }
 }
